@@ -1,4 +1,4 @@
-# Primeiro desafio Git/GitHub
+# Primeiro desafio Git/GitHub.
 Repositório criado para o Desafio de Projeto.
 
 
